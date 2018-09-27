@@ -1,0 +1,38 @@
+.title{
+    font-size: 5em;
+    text-align: center;
+    color:white;
+}
+
+body{
+    background-color: rgb(1, 204, 255);
+}
+
+.guess{
+    text-align: center;
+
+}
+.box{
+    border: 2px solid rgb(9, 247, 108);
+}
+
+#answer{
+    text-align: center;
+    font-size: 3em;
+}
+
+h2 #answer{
+    color: rgb(255, 255, 255);
+}
+
+#answer h2{
+   
+    color: rgb(115, 0, 247);
+}
+
+.alpha{
+    color: white;
+    margin-top:2em;
+
+    text-align: center;
+}
